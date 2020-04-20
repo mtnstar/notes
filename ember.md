@@ -1,0 +1,5 @@
+# EmberJS
+
+## routes / router
+
+replaceWith

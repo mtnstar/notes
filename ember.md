@@ -7,3 +7,9 @@
 ## routes / router
 
 replaceWith
+
+## templates
+
+Logging `{{ log messages }}`
+
+Debugger `{{ debugger }}`
